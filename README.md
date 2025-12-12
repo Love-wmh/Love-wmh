@@ -1,6 +1,7 @@
 ## Hi there 👋
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Love-wmh" /> </div>
 [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Love-wmh&theme=dracula)](https://github.com/Love-wmh/github-readme-activity-graph)
+[![Your GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Love-wmh)](https://github.com/Love-wmh/github-readme-activity-graph)
 <!--
 **Love-wmh/Love-wmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
