@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 你好！Do you believe in God?</h1>
+  <h1>👋 Hello！Confidence is the pinnacle</h1>
 </div>
 
 <div align="center">
