@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Love-wmh&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Love-wmh&theme=radical&utcOffset=8" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Love-wmh&theme=radical" width="49%" />
 </div>
 <h6></h6>
 
