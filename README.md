@@ -23,7 +23,7 @@
 <br />
 
 <!-- ===================== 关于我 ===================== -->
-## 🧑‍🚀 About Me
+## About Me
 
 ```ts
 const wmh = {
@@ -37,15 +37,15 @@ const wmh = {
 };
 ```
 
-- 🔭 目前专注于 **前端工程化** 与 **组件体系建设**
-- 🌱 正在学习 **Go** 与 **系统设计**
-- 📚 平时会把学习笔记整理成文档沉淀下来
-- ⚡ 一句话：**能跑起来只是开始，能被维护才是终点**
+- 目前专注于 **前端工程化** 与 **组件体系建设**
+- 正在学习 **Go** 与 **系统设计**
+- 平时会把学习笔记整理成文档沉淀下来
+- 一句话：**能跑起来只是开始，能被维护才是终点**
 
 <br />
 
 <!-- ===================== 技术栈 ===================== -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,7 +66,7 @@ const wmh = {
 <br />
 
 <!-- ===================== 数据面板 ===================== -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Love-wmh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ec4899&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
@@ -80,7 +80,7 @@ const wmh = {
 <br />
 
 <!-- ===================== 活动图 ===================== -->
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Love-wmh&theme=redical&hide_border=true&bg_color=0d1117&color=ec4899&line=8b5cf6&point=f43f5e&area=true&area_color=8b5cf6" alt="Activity Graph" width="100%" />
@@ -94,7 +94,7 @@ const wmh = {
 <br />
 
 <!-- ===================== 奖杯墙 ===================== -->
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Love-wmh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" width="100%" />
@@ -103,7 +103,7 @@ const wmh = {
 <br />
 
 <!-- ===================== 贪吃蛇（需配合 Action，未生成前会是破图） ===================== -->
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -116,7 +116,7 @@ const wmh = {
 <br />
 
 <!-- ===================== 每日语录 ===================== -->
-## 💭 Dev Quote of the Day
+## Dev Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="80%" />
@@ -125,7 +125,7 @@ const wmh = {
 <br />
 
 <!-- ===================== 联系方式 ===================== -->
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://github.com/Love-wmh" target="_blank">
@@ -153,6 +153,6 @@ const wmh = {
 </div>
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/Love-wmh">Love-wmh</a> · Keep coding, keep growing</sub>
+  <sub>From <a href="https://github.com/Love-wmh">Love-wmh</a> · Keep coding, keep growing</sub>
 </div>
 
