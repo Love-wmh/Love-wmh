@@ -69,10 +69,6 @@ const wmh = {
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Love-wmh&theme=redical&hide_border=true&bg_color=0d1117&color=ec4899&line=8b5cf6&point=f43f5e&area=true&area_color=8b5cf6" alt="Activity Graph" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Love-wmh&theme=radical&utcOffset=8" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Love-wmh&theme=radical" width="49%" />
 </div>
