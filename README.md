@@ -22,28 +22,6 @@
 
 <br />
 
-<!-- ===================== 关于我 ===================== -->
-## About Me
-
-```ts
-const wmh = {
-  name: "Love-wmh",
-  role: "Front-end Developer",
-  code: ["TypeScript", "JavaScript", "C", "C++"],
-  tools: ["React", "Node.js", "Vite", "Git"],
-  currentFocus: "打磨工程化能力，写更可维护的代码",
-  learning: ["Go", "System Design"],
-  motto: "Confidence is the pinnacle.",
-};
-```
-
-- 目前专注于 **前端工程化** 与 **组件体系建设**
-- 正在学习 **Go** 与 **系统设计**
-- 平时会把学习笔记整理成文档沉淀下来
-- 一句话：**能跑起来只是开始，能被维护才是终点**
-
-<br />
-
 <!-- ===================== 技术栈 ===================== -->
 ## Tech Stack
 
