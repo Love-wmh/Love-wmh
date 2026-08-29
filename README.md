@@ -65,20 +65,6 @@ const wmh = {
 
 <br />
 
-<!-- ===================== 数据面板 ===================== -->
-## GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Love-wmh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ec4899&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Love-wmh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Love-wmh&theme=radical&hide_border=true&background=0d1117&stroke=8b5cf6&ring=ec4899&fire=f43f5e&currStreakLabel=ec4899&date_format=Y-n-j" alt="GitHub Streak" width="500" />
-</div>
-
-<br />
-
 <!-- ===================== 活动图 ===================== -->
 ## Contribution Activity
 
