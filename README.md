@@ -79,15 +79,6 @@ const wmh = {
 
 <br />
 
-<!-- ===================== 奖杯墙 ===================== -->
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Love-wmh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" width="100%" />
-</div>
-
-<br />
-
 <!-- ===================== 贪吃蛇（需配合 Action，未生成前会是破图） ===================== -->
 ## Contribution Snake
 
